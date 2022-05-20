@@ -1,0 +1,19 @@
+.gradient-custom-2{
+    /* fallbak to old browsers */
+    background: #fccb90;
+
+    /* /​ Chrome 10-25, Safari 5.1-6 ​/  */
+    background: -webkit-linear-gradient(left, #ec7a28, #d6383b,#db3a77,#b94897);
+
+    /*  ​/​ W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ ​/  */
+    background: linear-gradient(left, #ee7724,#d8363a,#dd3675,#b44593)
+
+}
+
+.form-control{
+    background: rgba(221, 204, 204, 0.801);
+}
+
+.btn-primary{
+    background-color: #370665;
+}
